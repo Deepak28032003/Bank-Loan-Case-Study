@@ -1,6 +1,7 @@
 # Bank-Loan-Case-Study 🏦💳
 
-![banner](bank banner.png)
+<img src="bank-banner.png" width=1100px>
+
 
 ## Description
 
